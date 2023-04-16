@@ -30,7 +30,7 @@ const Auth = () => {
             });                 
           }
           catch (error) {
-             console.log(error);
+            console.log(error);
           }
      }, [email, password, router]);
 
