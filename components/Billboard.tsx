@@ -1,7 +1,6 @@
 import React, { useCallback } from 'react';
 import useBillboard from '@/hooks/useBillboard';
 import { AiOutlineInfoCircle } from 'react-icons/ai';
-// import { InformationCircleIcon } from '@heroicons/react/24/outline';
 
 import PlayButton from '@/components/PlayButton';
 import useInfoModalStore from '@/hooks/useInfoModalStore';
